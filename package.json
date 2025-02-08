@@ -1,0 +1,25 @@
+{
+  "name": "azulino",
+  "displayName": "azulino",
+  "publisher": "seagram",
+  "description": "Azulino (adjective) – Bluish, having a slight or soft blue hue.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Azulino",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Azulino-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "size": 45729
+  }
+}
